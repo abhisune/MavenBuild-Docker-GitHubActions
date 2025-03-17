@@ -1,4 +1,4 @@
-name: Code build and Deploy 
+name: Code build and Deploy
 on: push 
 env:
  imageName: "myjavaapp"
